@@ -1,0 +1,28 @@
+name: Una foto... una historia
+favicon: null
+layout_spectrum: 0.05502633168362081
+typography_spectrum: 0.46260957326740026
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.11808579019270837
+  lightness: 0.6679558039177209
+  saturation: 0.5470690589863807
+  rhythmicContrast: 0.5789989046752453
+purpose: []
